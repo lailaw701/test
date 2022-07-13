@@ -1,1 +1,1 @@
-# just for testing websitie features
+# just for testing website features
